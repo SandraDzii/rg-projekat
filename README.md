@@ -3,8 +3,8 @@
 
 # Napomena
 * koriscen skelet proj_base (master)
-* Object dir preuzeti ovde: https://drive.google.com/drive/folders/1pCJLu_QdggMvSxj8EX2SLRspwCOz8OcK?usp=sharing
-* Object dir kopirati u resources dir
+* Objects dir preuzeti ovde: https://drive.google.com/file/d/1CvTqGOBqGtPrJ_jheahdA-7K3tFqG0M_/view?usp=sharing
+* Objects dir kopirati u resources dir
 * CLion -> Open -> path/to/my/project_base
 * Snimak: https://www.youtube.com/watch?v=WoTfqYQ9-hA
 
