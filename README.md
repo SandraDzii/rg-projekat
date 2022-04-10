@@ -2,10 +2,10 @@
 `git clone https://github.com/SandraDzii/rg-projekat.git`
 
 # Napomena
-* koriscen skelet proj_base (master)
+* koriscen skelet project_base (main)
 * Objects dir preuzeti ovde: https://drive.google.com/file/d/1CvTqGOBqGtPrJ_jheahdA-7K3tFqG0M_/view?usp=sharing
 * Objects dir kopirati u resources dir
-* CLion -> Open -> path/to/my/project_base
+* CLion -> Open -> path/to/my/rg-projekat
 * Snimak: https://www.youtube.com/watch?v=WoTfqYQ9-hA
 
 # Implementirane oblasti
